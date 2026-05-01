@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jruizsal/jruizsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Javier Ruiz Salvador — Product Manager & AI Builder
 
-Here are some ideas to get you started:
+Staff PM with 15+ years building B2B, B2C, and B2B2C products at scale. Currently building Zarkus — an AI-powered endurance training app — as solo founder: full-stack product (iOS · Android · web · Python backend · AI coach with agents + evals · Garmin integration), shipped solo using Claude Code, Supabase, Vercel, Claudfare, Resend, Telegram, Posthog and Langchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use AI tooling daily — not to generate boilerplate, but to ship products I couldn't build alone. That's given me hands-on knowledge of agent architecture, evals, prompt engineering, and context management.
+
+What I've shipped:
+- https://javierruiz.me
+- https://zarkus.app
+- https://memoryqr.app
+
+Also, you can find me on Linkedin: https://www.linkedin.com/in/javier-ruiz-salvador-pm/
